@@ -20,11 +20,11 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutassem-almahamid1&show_icons=true&theme=radium" alt="Mutassem's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mutassem-almahamid1&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Mutassem's Trophies" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutassem-almahamid1&layout=compact&theme=radium" alt="Top Langs" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutassem-almahamid1&theme=radium&hide_border=true" alt="Mutassem's Streak" />
   <br><br>
-  ![Mutassem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutassem-almahamid1&theme=radium)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutassem-almahamid1&theme=react-dark&hide_border=true&bg_color=141821" alt="Mutassem's Activity Graph" />
 </p>
 
 ## 📫 Let's Connect
