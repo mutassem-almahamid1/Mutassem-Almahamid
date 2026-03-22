@@ -1,16 +1,15 @@
 # Hi there, I'm Mutassem Almahamid 👋
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Graduate with a status of "Excellent".
+- 🎓 Computer Science Graduate.
 - 💻 Passionate **Backend Developer** focused on building secure, scalable, and real-time web applications.
 - ⚙️ My primary stack is **Java** and the **Spring Ecosystem** (Boot, Security, Data).
 - 🌱 Currently exploring and expanding my knowledge in: **.NET, C#, ASP.NET, PostgreSQL**, and advanced **Design Patterns**.
-- 🐧 My daily development environment is driven by **Linux (Fedora)**.
-
+  
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Java, JavaScript, C#.
-- **Backend Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, ASP.NET.
-- **Databases:** MongoDB, MySQL, PostgreSQL, SQL Server.
+- **Languages:** Java, C#, HTML, CSS, JavaScript.
+- **Backend Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, ASP.NET, EF.
+- **Databases:** MongoDB, PostgreSQL.
 - **Tools & Architecture:** Git/GitHub, Docker, CI/CD (GitHub Actions), JWT, WebSocket, MVC, REST APIs.
 
 ## 🚀 Featured Projects
